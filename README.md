@@ -68,7 +68,3 @@ To use the application, follow these steps:
 
 ## License
 This project is licensed under the MIT License. See the LICENSE file for more details.
-<<<<<<< HEAD
-
-=======
->>>>>>> 1f25e00302d275818ff5f9bc7ba5bb84d866048c
